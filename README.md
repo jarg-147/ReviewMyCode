@@ -6,13 +6,10 @@ The objective of this repository is to show my code, and my way of making the ap
 
 ## - What does this repository contain? 💻
 
-Contains sample code of my published apps, such as [Horoscopum](https://play.google.com/store/apps/details?id=com.bitbiird.horoscopum), and unpublished apps.
+Contains the links of my published apps, such as [Horoscopum](https://play.google.com/store/apps/details?id=com.bitbiird.horoscopum), and unpublished apps.
 
-## - Apps List
+## - Published apps
 
-### - Horoscopum details:
+[Horoscopum](https://github.com/jarg-147/HoroscopumCodeReview)
 
-* Mockk, for unit testing.
-* Retrofit, for the API calls.
-* Dagger Hilt, for dependency injection.
-* LiveData, for the UI updates (MVVM).
+## - Unpublished apps
