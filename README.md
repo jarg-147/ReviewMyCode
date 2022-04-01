@@ -8,8 +8,8 @@ The objective of this repository is to show my code, and my way of making the ap
 
 Contains the links of my published apps, such as [Horoscopum](https://play.google.com/store/apps/details?id=com.bitbiird.horoscopum), and unpublished apps.
 
-## - Published apps
+## - Published apps code
 
 [Horoscopum](https://github.com/jarg-147/HoroscopumCodeReview)
 
-## - Unpublished apps
+## - Unpublished apps code
